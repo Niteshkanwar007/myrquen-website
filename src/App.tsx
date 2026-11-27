@@ -6,7 +6,6 @@ import {
   AudioLines,
   Check,
   ChevronDown,
-  CircleDot,
   Command,
   Eye,
   Fingerprint,
